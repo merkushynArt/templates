@@ -1,7 +1,7 @@
 {
-   "name": "posts",
+   "name": "templates",
    "version": "1.0.0",
-   "description": "some posts",
+   "description": "some templates",
    "main": "index.js",
    "type": "module",
    "scripts": {
