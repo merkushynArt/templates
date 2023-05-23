@@ -19,7 +19,7 @@ const DB_PASSWORD = process.env.DB_PASSWORD;
 const DB_NAME = process.env.DB_NAME;
 */
 
-const PORT = 3002 || 3002;
+const PORT = 3002 || 3001;
 export const JWT_SECRET2 = 'secredPassword';
 
 // Middleware - для розширення функцыоналу express
